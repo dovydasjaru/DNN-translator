@@ -1,0 +1,601 @@
+Tortoise,Sausumos vėžlys
+Container,Konteineris
+Magpie,Šarka
+Sea turtle,Jūriniai vėžliai
+Football,Futbolo kamuolys
+Ambulance,Greitosios pagalbos automobilis
+Ladder,Kopėčios
+Toothbrush,Dantų šepetėlis
+Syringe,Švirkštas
+Sink,Kriauklė
+Toy,Žaislas
+Organ (Musical Instrument),Vargonai
+Cassette deck,Kasečių grotuvas
+Apple,Obuolys
+Human eye,Žmogaus akis
+Cosmetics,Kosmetika
+Paddle,Irklas
+Snowman,Besmegenis
+Beer,Alus
+Chopsticks,Valgymo lazdelės
+Human beard,Barzda
+Bird,Paukštis
+Parking meter,Stovėjimo zonos bilietų automatas
+Traffic light,Šviesoforas
+Croissant,Kruasanas
+Cucumber,Agurkas
+Radish,Ridikas
+Towel,Rankšluostis
+Doll,Lėlė
+Skull,Kaukolė
+Washing machine,Skalbimo mašina
+Glove,Pirštinė
+Tick,Erkė
+Belt,Diržas
+Sunglasses,Saulės akiniai
+Banjo,Bandža
+Cart,Vežimas
+Ball,Kamuolys
+Backpack,Kuprinė
+Bicycle,Dviratis
+Home appliance,Namų apyvokos prietaisas
+Centipede,Šimtakojis
+Boat,Valtis
+Surfboard,Banglentė
+Boot,Batas
+Headphones,Ausinės
+Hot dog,Dešrainis
+Shorts,Šortai
+Fast food,Greitas maistas
+Bus,Autobusas
+Boy,Berniukas
+Screwdriver,Atsuktuvas
+Bicycle wheel,Dviračio ratas
+Barge,Barža
+Laptop,Nešiojamas kompiuteris
+Miniskirt,Mini sijonas
+Drill (Tool),Gražtas
+Dress,Suknelė
+Bear,Lokys
+Waffle,Vaflis
+Pancake,Blynas
+Brown bear,Rudasis lokys
+Woodpecker,Genys
+Blue jay,Amerikinis mėlynasis kėkštas
+Pretzel,Riestainis
+Bagel,Didriestainis
+Tower,Bokštas
+Teapot,Arbatinukas
+Person,Asmuo
+Bow and arrow,Lankas ir strėle
+Swimwear,Maudymukas
+Beehive,Avilys
+Brassiere,Liemenukas
+Bee,Bitė
+Bat (Animal),Šikšnosparnis
+Starfish,Jūrų žvaigždė
+Popcorn,Spraginti kukurūzai
+Burrito,Buritas
+Chainsaw,Grandininis pjūklas
+Balloon,Balionas
+Wrench,Veržliaraktis
+Tent,Palapinė
+Vehicle registration plate,Automobilio valstybinio numerio ženklas
+Lantern,Žibintas
+Toaster,Skrudintuvas
+Flashlight,Žibintuvėlis
+Billboard,Reklaminis kelio stendas
+Tiara,Tiara
+Limousine,Limuzinas
+Necklace,Kaklo papuošalas
+Carnivore,Mesėdis
+Scissors,Žirklės
+Stairs,Laiptai
+Computer keyboard,Klaviatūra
+Printer,Spausdintuvas
+Traffic sign,Kelio ženklas
+Chair,Kėdė
+Shirt,Marškinėliai
+Poster,Plakatas
+Cheese,Sūris
+Sock,Kojinė
+Fire hydrant,Gaisrinis hidrantas
+Land vehicle,Žemės transporto priemonė
+Earrings,Auskarai
+Tie,Kaklaraištis
+Watercraft,Vandens transporto priemonė
+Cabinetry,Spintelė
+Suitcase,Lagaminas
+Muffin,Keksas
+Bidet,Bidė
+Snack,Užkandis
+Snowmobile,Sniegaeigis
+Clock,Laikrodis
+Medical equipment,Medicininė įranga
+Cattle,Galvijai
+Cello,Violončelė
+Jet ski,Vandens motociklas
+Camel,Kupranugaris
+Coat,Paltas
+Suit,Kostiumas
+Desk,Stalas
+Cat,Katė
+Bronze sculpture,Bronzinė skulptūra
+Juice,Sultys
+Gondola,Gondola
+Beetle,Vabalas
+Cannon,Patranka
+Computer mouse,Kompiuterinė pelė
+Cookie,Sausainis
+Office building,Biurų pastatas
+Fountain,Fontanas
+Coin,Moneta
+Calculator,Skaičiuotuvas
+Cocktail,Kokteilis
+Computer monitor,Kompiuterio monitorius
+Box,Dėžė
+Stapler,Segiklis
+Christmas tree,Kalėdinė eglutė
+Cowboy hat,Kaubojaus kepurė
+Hiking equipment,Žygio įranga
+Studio couch,Studijos sofa
+Drum,Būgnas
+Dessert,Desertas
+Wine rack,Vyno lentyna
+Drink,Gėrimas
+Zucchini,Cukinija
+Ladle,Samtis
+Human mouth,Žmogaus burna
+Dairy Product,Pieno produktas
+Dice,Kauliukas
+Oven,Orkaitė
+Dinosaur,Dinozauras
+Ratchet (Device),Terkšlė
+Couch,Sofa
+Cricket ball,Kriketo kamuolys
+Winter melon,Šiurkštusis vaškūnas
+Spatula,Mentelė
+Whiteboard,Magnetinė rašymo lenta
+Pencil sharpener,Drožtukas
+Door,Durys
+Hat,Kepurė
+Shower,Dušas
+Eraser,Trintukas
+Fedora,Fedora
+Guacamole,Gvakamolė
+Dagger,Durklas
+Scarf,Šalikas
+Dolphin,Delfinas
+Sombrero,Sombreras
+Tin can,Skardinė
+Mug,Puodelis
+Tap,Čiaupas
+Harbor seal,Paprastasis ruonis
+Stretcher,Neštuvas
+Can opener,Skardinių atidarytuvas
+Goggles,Apsauginiai akiniai
+Human body,Žmogaus kūnas
+Roller skates,Riedučiai
+Coffee cup,Kavos puodelis
+Cutting board,Pjaustymo lenta
+Blender,Kokteilinė
+Plumbing fixture,Vonios įranga
+Stop sign,Stop ženklas
+Office supplies,Biuro reikmenys
+Volleyball (Ball),Tinklinio kamuolys
+Vase,Vaza
+Slow cooker,Lėta viryklė
+Wardrobe,Drabužių spinta
+Coffee,Kava
+Whisk,Šluotelė
+Paper towel,Popierinis rankšluostis
+Personal care,Kūno priežiūros priemonė
+Food,Maistas
+Sun hat,Skrybelė
+Tree house,Namelis medyje
+Flying disc,Skraidantysis diskas
+Skirt,Sijonas
+Gas stove,Dujinė viryklė
+Salt and pepper shakers,Druskinė ir pipirinė
+Mechanical fan,Mechaninis ventiliatorius
+Face powder,Veido pudra
+Fax,Faksas
+Fruit,Vaisius
+French fries,Skrudintos bulvytės
+Nightstand,Naktinis staliukas
+Barrel,Statinė
+Kite,Aitvaras
+Tart,Tartaletė
+Treadmill,Bėgimo takelis
+Fox,Lapė
+Flag,Vėliava
+French horn,Valtorna
+Window blind,Žaliuzės
+Human foot,Žmogaus pėda
+Golf cart,Golfo automobiliukas
+Jacket,Striukė
+Egg (Food),Kiaušinis
+Street light,Gatvės šviesa
+Guitar,Gitara
+Pillow,Pagalvė
+Human leg,Žmogaus koja
+Isopod,Lygiakojis
+Grape,Vynuogė
+Human ear,Žmogaus ausis
+Power plugs and sockets,Rozetė
+Panda,Panda
+Giraffe,Žirafa
+Woman,Moteris
+Door handle,Durų rankena
+Rhinoceros,Raganosis
+Bathtub,Vonia
+Goldfish,Auksinė žuvelė
+Houseplant,Naminis augalas
+Goat,Ožka
+Baseball bat,Beisbolo lazda
+Baseball glove,Beisbolo pirštinė
+Mixing bowl,Dubuo
+Marine invertebrates,Jūrų bestuburiai
+Kitchen utensil,Virtuvės reikmenys
+Light switch,Šviesos jungiklis
+House,Namas
+Horse,Arklys
+Stationary bicycle,Stacionarus dviratis
+Hammer,Plaktukas
+Ceiling fan,Lubinis ventiliatorius
+Sofa bed,Sofa-lova
+Adhesive tape,Lipni juosta
+Harp,Arfa
+Sandal,Sandalas
+Bicycle helmet,Dviratininko šalmas
+Saucer,Padėkliukas
+Harpsichord,Klavesinas
+Human hair,Žmogaus plaukai
+Heater,Šildytuvas
+Harmonica,Armonikėlė
+Hamster,Žiurkėnas
+Curtain,Užuolaida
+Bed,Lova
+Kettle,Virdulys
+Fireplace,Židinys
+Scale,Svarstyklės
+Drinking straw,Šiaudelis
+Insect,Vabzdys
+Hair dryer,Plaukų džiovintuvas
+Kitchenware,Virtuvės reikmenys
+Indoor rower,Irklavimo mašina
+Invertebrate,Bestuburis
+Food processor,Virtuvinis kombainas
+Bookcase,Knygų spinta
+Refrigerator,Šaldytuvas
+Wood-burning stove,Krosnis
+Punching bag,Bokso krepšys
+Common fig,Skiautėtalapis fikusas
+Cocktail shaker,Kokteilių purtyklė
+Jaguar (Animal),Jaguaras
+Golf ball,Golfo kamuoliukas
+Fashion accessory,Mados aksesuaras
+Alarm clock,Žadintuvas
+Filing cabinet,Kartotekos spinta
+Artichoke,Artišokas
+Table,Stalas
+Tableware,Serviravimo indai ir irankiai
+Kangaroo,Kengūra
+Koala,Koala
+Knife,Peilis
+Bottle,Butelis
+Bottle opener,Butelių atidarytuvas
+Lynx,Lūšis
+Lavender (Plant),Levanda
+Lighthouse,Švyturys
+Dumbbell,Hantelis
+Human head,Žmogaus galva
+Bowl,Dubuo
+Humidifier,Drėkintuvas
+Porch,Veranda
+Lizard,Driežas
+Billiard table,Biliardo stalas
+Mammal,Žinduolis
+Mouse,Pelė
+Motorcycle,Motociklas
+Musical instrument,Muzikinis instrumentas
+Swim cap,Plaukiojimo kepurė
+Frying pan,Keptuvė
+Snowplow,Sniego valymo sunkvežimis
+Bathroom cabinet,Vonios spintelė
+Missile,Raketa
+Bust,Biustas
+Man,Vyras
+Waffle iron,Vaflinė
+Milk,Pienas
+Ring binder,Žiedinis segtuvas
+Plate,Lekštė
+Mobile phone,Mobilusis telefonas
+Baked goods,Kepiniai
+Mushroom,Grybas
+Crutch,Ramentas
+Pitcher (Container),Ąsotis
+Mirror,Veidrodis
+Personal flotation device,Asmeninis plūduriavimo įtaisas
+Table tennis racket,Stalo teniso raketė
+Pencil case,Penalas
+Musical keyboard,Muzikinė klaviatūra
+Scoreboard,Rezultatų suvestinė
+Briefcase,Portfelis
+Kitchen knife,Virtuvinis peilis
+Nail (Construction),Vinis
+Tennis ball,Teniso kamuolys
+Plastic bag,Plastikinis maišelis
+Oboe,Obojus
+Chest of drawers,Komoda
+Ostrich,Strutis
+Piano,Pianinas
+Girl,Mergaitė
+Plant,Augalas
+Potato,Bulvė
+Hair spray,Plaukų lakas
+Sports equipment,Sporto įranga
+Pasta,Makaronai
+Penguin,Pingvinas
+Pumpkin,Moliūgas
+Pear,Kriaušė
+Infant bed,Kūdikio lova
+Polar bear,Baltasis lokys
+Mixer,Maišytuvas
+Cupboard,Spintelė
+Jacuzzi,Sukūrinė vonia
+Pizza,Pica
+Digital clock,Skaitmeninis laikrodis
+Pig,Kiaulė
+Reptile,Roplys
+Rifle,Šautuvas
+Lipstick,Lūpų dažai
+Skateboard,Riedlentė
+Raven,Kranklys
+High heels,Aukštakulniai
+Red panda,Mažoji panda
+Rose,Rožė
+Rabbit,Triušis
+Sculpture,Skulptūra
+Saxophone,Saksofonas
+Shotgun,Šratinis šautuvas
+Seafood,Jūros gėrybės
+Submarine sandwich,Sumuštinis „Submarinas“
+Snowboard,Snieglentė
+Sword,Kalavijas
+Picture frame,Nuotraukos rėmas
+Sushi,Sušis
+Loveseat,Sofa meilės vieta
+Ski,Slidės
+Squirrel,Voverė
+Tripod,Trikojis
+Stethoscope,Stetoskopas
+Submarine,Povandeninis laivas
+Scorpion,Skorpionas
+Segway,Riedis
+Training bench,Treniruočiu suoliukas
+Snake,Gyvatė
+Coffee table,Kavos stalelis
+Skyscraper,Dangoraižis
+Sheep,Avis
+Television,Televizorius
+Trombone,Trombonas
+Tea,Arbata
+Tank,Tankas
+Taco,Tako
+Telephone,Telefonas
+Torch,Deglas
+Tiger,Tigras
+Strawberry,Braškė
+Trumpet,Trimitas
+Tree,Medis
+Tomato,Pomidoras
+Train,Traukinys
+Tool,Įrankis
+Picnic basket,Iškylos krepšys
+Cooking spray,Purškiamas aliejus
+Trousers,Kelnės
+Bowling equipment,Boulingo įranga
+Football helmet,Futbolo šalmas
+Truck,Sunkvežimis
+Measuring cup,Matavimo puodelis
+Coffeemaker,Kavos aparatas
+Violin,Smuikas
+Vehicle,Transporto priemonė
+Handbag,Rankinė
+Paper cutter,Popieriaus pjaustyklė
+Wine,Vynas
+Weapon,Ginklas
+Wheel,Ratas
+Worm,Kirmelė
+Wok,Wok
+Whale,Banginis
+Zebra,Zebras
+Auto part,automobilio dalis
+Jug,Ąsotis
+Pizza cutter,Picos pjaustyklė
+Cream,Grietinėlė
+Monkey,Beždžionė
+Lion,Liūtas
+Bread,Duona
+Platter,Didelė lėkštė
+Chicken,Višta
+Eagle,Erelis
+Helicopter,Sraigtasparnis
+Owl,Pelėda
+Duck,Antis
+Turtle,Vėžlys
+Hippopotamus,Begemotas
+Crocodile,Krokodilas
+Toilet,Tualetas
+Toilet paper,Tualetinis popierius
+Squid,Kalmaras
+Clothing,Apranga
+Footwear,Avalynė
+Lemon,Citrina
+Spider,Voras
+Deer,Elnias
+Frog,Varlė
+Banana,Banana
+Rocket,Raketa
+Wine glass,Vyno taurė
+Countertop,Stalviršis
+Tablet computer,Planšetinis kompiuteris
+Waste container,Atliekų konteineris
+Swimming pool,Plaukiojimo baseinas
+Dog,Šuo
+Book,Knyga
+Elephant,Dramblys
+Shark,Ryklys
+Candle,Žvakė
+Leopard,Leopardas
+Axe,Kirvis
+Hand dryer,Ranku džiovintuvas
+Soap dispenser,Muilo dozatorius
+Porcupine,Dygliakiaulė
+Flower,Gėlė
+Canary,Kanarėlė
+Cheetah,Gepardas
+Palm tree,Palmė
+Hamburger,Mėsainis
+Maple,Klevas
+Building,Pastatas
+Fish,Žuvis
+Lobster,Omaras
+Garden Asparagus,Šparagas
+Furniture,Baldai
+Hedgehog,Ežiukas
+Airplane,Lektuvas
+Spoon,Šaukštas
+Otter,Ūdra
+Bull,Jautis
+Oyster,Austrė
+Horizontal bar,Skersinis
+Convenience store,Visą parą dirbanti parduotuvė
+Bomb,Bomba
+Bench,Suolas
+Ice cream,Ledai
+Caterpillar,Vikšras
+Butterfly,Drugelis
+Parachute,Parašiutas
+Orange,Apelsinas
+Antelope,Antilopė
+Beaker,Menzūra
+Moths and butterflies,Drugiai
+Window,Langas
+Closet,Spinta
+Castle,Pilis
+Jellyfish,Medūza
+Goose,Žąsis
+Mule,Mulas
+Swan,Gulbė
+Peach,Persikas
+Coconut,Kokosas
+Seat belt,Saugos diržas
+Raccoon,Meškėnas
+Chisel,Kaltas
+Fork,Šakutė
+Lamp,Lempa
+Camera,Fotoaparatas
+Squash (Plant),Moliūgas
+Racket,Raketė
+Human face,Žmoguas veidas
+Human arm,Žmogaus ranka
+Vegetable,Daržovė
+Diaper,Sauskelnės
+Unicycle,Vienratis
+Falcon,Sakalas
+Chime,Vėjo varpeliai
+Snail,Sraigė
+Shellfish,Vėžiagyvis
+Cabbage,Kopūstas
+Carrot,Morka
+Mango,Mangas
+Jeans,Džinsai
+Flowerpot,Vazonas
+Pineapple,Ananasas
+Drawer,Stalčius
+Stool,Baro kėdė
+Envelope,Vokas
+Cake,Tortas
+Dragonfly,Laumžirgis
+Common sunflower,Paprastoji saulėgrąža
+Microwave oven,Mikrobangų krosnelė
+Honeycomb,Korys
+Marine mammal,Jūrų žinduolis
+Sea lion,Jūrų liūtas
+Ladybug,Boružė
+Shelf,Lentyna
+Watch,Nešiojamas laikrodis
+Candy,Saldainis
+Salad,Salotos
+Parrot,Papūga
+Handgun,Rankinis ginklas
+Sparrow,Žvirblis
+Van,Furgonas
+Grinder,Šlifuoklis
+Spice rack,Prieskonių stovas
+Light bulb,Lemputė
+Corded phone,Laidinis telefonas
+Sports uniform,Sportinė uniforma
+Tennis racket,Teniso raketė
+Wall clock,Sieninis laikrodis
+Serving tray,Serviravimo dėklas
+Kitchen & dining room table,Valgomasis stalas
+Dog bed,Šuns lova
+Cake stand,Tortų stendas
+Cat furniture,Draskyklė
+Bathroom accessory,Vonios aksesuaras
+Facial tissue holder,Servetėlių dėžutė
+Pressure cooker,Greitpuodis
+Kitchen appliance,Virtuvinis prietaisas
+Tire,Padanga
+Ruler,Liniuotė
+Luggage and bags,Bagažas
+Microphone,Mikrofonas
+Broccoli,Brokoliai
+Umbrella,Skėtis
+Pastry,Kepiniai
+Grapefruit,Greipfrutas
+Band-aid,Pleistras
+Animal,Gyvūnas
+Bell pepper,Saldžioji paprika
+Turkey,Kalakutas
+Lily,Lelija
+Pomegranate,Granatas
+Doughnut,Spurga
+Glasses,Akiniai
+Human nose,Žmogaus nosis
+Pen,Rašiklis
+Ant,Skruzdelė
+Car,Automobilis
+Aircraft,Orlaivis
+Human hand,Žmogaus ranka
+Skunk,Skunkas
+Teddy bear,Pliušinis meškiukas
+Watermelon,Arbuzas
+Cantaloupe,Raukšlėtasis melionas
+Dishwasher,Indaplovė
+Flute,Fleita
+Balance beam,Buomas
+Sandwich,Sumuštinis
+Shrimp,Krevetė
+Sewing machine,Siuvimo mašina
+Binoculars,Žiūronai
+Rays and skates,Rajožuvės
+Ipod,Ipod
+Accordion,Akordeonas
+Willow,Gluosnis
+Crab,Krabas
+Crown,Karūna
+Seahorse,Jūrų arkliukas
+Perfume,Kvepalai
+Alpaca,Alpaka
+Taxi,Taksi
+Canoe,Baidarė
+Remote control,Nuotolinio valdymo pultas
+Wheelchair,Neįgaliųjų vežimėlis
+Rugby ball,Regbio kamuolys
+Armadillo,Šarvuotis
+Maracas,Maraka
+Helmet,Šalmas
