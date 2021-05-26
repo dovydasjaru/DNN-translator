@@ -3,7 +3,7 @@ import re
 
 
 __separators = [",", ";", "."]
-__pattern = r'= \[[\n]?[ ]*["\']([_A-Za-z ]+)["\'],([\n ][ ]*["\'][A-Za-z ]+["\'],)+([\n ][ ]*["\'][A-Za-z ]+["\'])?[\n]?[ ]*\]'
+__pattern = r'= \[[\n]?[ ]*["\']([_A-Za-z ]+)["\'],([\n]?[ ]*["\'][A-Za-z ]+["\'],)+([\n]?[ ]*["\'][A-Za-z ]+["\'])?[\n]?[ ]*\]'
 
 
 def read_labels_file(file_location: str) -> dict:
