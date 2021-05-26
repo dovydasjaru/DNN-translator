@@ -56,6 +56,6 @@ if args.inputLanguage is None:
 if args.outputLanguage is None:
     args.outputLanguage = "lt"
 if len(file) == 1:
-    translate_dnn(file[0], args.inputLanguage, args.outputLanguage, args.appendConfidence)
+    translate_dnn(file[0], args.outputLanguage, args.inputLanguage, args.appendConfidence)
 else:
     print("Expected one file location")
