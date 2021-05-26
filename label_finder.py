@@ -5,7 +5,7 @@ import re
 
 allowed_file_extensions = ["csv", "txt"]
 allowed_code_extensions = ["py"]
-__pattern = r'= \[[\n]?[ ]*["\']([_A-Za-z ]+)["\'],([\n ][ ]*["\'][A-Za-z ]+["\'],)+([\n ][ ]*["\'][A-Za-z ]+["\'])?[\n]?[ ]*\]'
+__pattern = r'= \[[\n]?[ ]*["\']([_A-Za-z ]+)["\'],([\n]?[ ]*["\'][A-Za-z ]+["\'],)+([\n]?[ ]*["\'][A-Za-z ]+["\'])?[\n]?[ ]*\]'
 
 
 def find_labels_file(directory_location: str) -> List[str]:
