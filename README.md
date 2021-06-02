@@ -15,3 +15,6 @@ This command accepts optional arguments:
 * -o (--outputLanguage): Language that models labels will be translated. Should be in form of two ascii letters. Default - lt.
 This command accepts optional flag:
 * -c (--appendConfidence): A flag that means translation confidence will be appended to each translation. Default - false.
+## Usage examples
+This solution was tested with [Mask-RCNN](https://github.com/matterport/Mask_RCNN) demo application. So most models which have their classes written out in code should be translated.
+This solution will also try to find labels that are written in a sepparate file.
