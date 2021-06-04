@@ -16,5 +16,5 @@ This command accepts optional arguments:
 This command accepts optional flag:
 * -c (--appendConfidence): A flag that means translation confidence will be appended to each translation. Default - false.
 ## Usage examples
-This solution was tested with [Mask-RCNN](https://github.com/matterport/Mask_RCNN) demo application. So most models which have their classes written out in code should be translated.
+This solution was tested with [Mask-RCNN](https://github.com/matterport/Mask_RCNN) demo application. So most models which have their classes written out in code should be translated. The solution won't work with .ipynb file type, so those files should be converted to .py file type.
 This solution will also try to find labels that are written in a sepparate file.
